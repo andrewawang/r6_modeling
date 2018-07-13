@@ -1,0 +1,33 @@
+R6 probability modeling: Alpha packs
+
+
+Model based on data from stats page: W/L ratio, K/D ratio
+
+
+
+Fixed variables:
+
+Win game: ~250-300 renown (function of score)
+
+-AP %: +2%
+
+-Roll for AP
+
+Lose game: ~125-150 renown (function of score)
+
+-AP %: + 1.5%
+
+-No roll
+
+
+Alpha pack costs 5k renown
+
+Game length: 20 min casual
+
+
+
+
+
+Idle: 2 hour/1k renown - 10hr/1AP
+
+
